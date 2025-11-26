@@ -1,0 +1,132 @@
+[
+  {
+    "file": "part_000.mp4",
+    "start": 0,
+    "duration": 7.333
+  },
+  {
+    "file": "part_001.mp4",
+    "start": 7.333,
+    "duration": 6.328
+  },
+  {
+    "file": "part_002.mp4",
+    "start": 13.661,
+    "duration": 6.325
+  },
+  {
+    "file": "part_003.mp4",
+    "start": 19.986,
+    "duration": 9.344
+  },
+  {
+    "file": "part_004.mp4",
+    "start": 29.33,
+    "duration": 23.999
+  },
+  {
+    "file": "part_005.mp4",
+    "start": 53.329,
+    "duration": 5.666
+  },
+  {
+    "file": "part_006.mp4",
+    "start": 58.995,
+    "duration": 6.325
+  },
+  {
+    "file": "part_007.mp4",
+    "start": 65.32,
+    "duration": 6.677
+  },
+  {
+    "file": "part_008.mp4",
+    "start": 71.997,
+    "duration": 5.999
+  },
+  {
+    "file": "part_009.mp4",
+    "start": 77.996,
+    "duration": 7.317
+  },
+  {
+    "file": "part_010.mp4",
+    "start": 85.313,
+    "duration": 7
+  },
+  {
+    "file": "part_011.mp4",
+    "start": 92.313,
+    "duration": 7.669
+  },
+  {
+    "file": "part_012.mp4",
+    "start": 99.982,
+    "duration": 6.01
+  },
+  {
+    "file": "part_013.mp4",
+    "start": 105.993,
+    "duration": 7.994
+  },
+  {
+    "file": "part_014.mp4",
+    "start": 113.987,
+    "duration": 5.994
+  },
+  {
+    "file": "part_015.mp4",
+    "start": 119.981,
+    "duration": 6.667
+  },
+  {
+    "file": "part_016.mp4",
+    "start": 126.648,
+    "duration": 7.011
+  },
+  {
+    "file": "part_017.mp4",
+    "start": 133.658,
+    "duration": 7.658
+  },
+  {
+    "file": "part_018.mp4",
+    "start": 141.317,
+    "duration": 6.666
+  },
+  {
+    "file": "part_019.mp4",
+    "start": 147.983,
+    "duration": 7.343
+  },
+  {
+    "file": "part_020.mp4",
+    "start": 155.326,
+    "duration": 5.705
+  },
+  {
+    "file": "part_021.mp4",
+    "start": 161.031,
+    "duration": 6.287
+  },
+  {
+    "file": "part_022.mp4",
+    "start": 167.318,
+    "duration": 7.994
+  },
+  {
+    "file": "part_023.mp4",
+    "start": 175.313,
+    "duration": 12.682
+  },
+  {
+    "file": "part_024.mp4",
+    "start": 187.995,
+    "duration": 9.989
+  },
+  {
+    "file": "part_025.mp4",
+    "start": 197.983,
+    "duration": 16.039
+  }
+]
