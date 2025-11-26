@@ -1,0 +1,37 @@
+[
+  {
+    "file": "part_000.mp4",
+    "start": 0,
+    "duration": 13.468
+  },
+  {
+    "file": "part_001.mp4",
+    "start": 13.468,
+    "duration": 13.251
+  },
+  {
+    "file": "part_002.mp4",
+    "start": 26.718,
+    "duration": 14.803
+  },
+  {
+    "file": "part_003.mp4",
+    "start": 41.521,
+    "duration": 19.514
+  },
+  {
+    "file": "part_004.mp4",
+    "start": 61.034,
+    "duration": 14.348
+  },
+  {
+    "file": "part_005.mp4",
+    "start": 75.382,
+    "duration": 14.276
+  },
+  {
+    "file": "part_006.mp4",
+    "start": 89.658,
+    "duration": 3.712
+  }
+]
