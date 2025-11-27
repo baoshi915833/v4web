@@ -1,0 +1,22 @@
+[
+  {
+    "file": "part_000.mp4",
+    "start": 0,
+    "duration": 36.479
+  },
+  {
+    "file": "part_001.mp4",
+    "start": 36.479,
+    "duration": 36.316
+  },
+  {
+    "file": "part_002.mp4",
+    "start": 72.795,
+    "duration": 36.455
+  },
+  {
+    "file": "part_003.mp4",
+    "start": 109.25,
+    "duration": 11.633
+  }
+]
